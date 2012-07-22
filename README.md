@@ -14,10 +14,11 @@ Neste problema, você deverá exibir uma lista de 1 a 100, um em cada linha, com a
 * [Igor Bozato][IgorBozato]
 * [Igor Rozani][IgorRozani]
 * [Mauro Garcia][MauroGarcia]
-* [Gustavo]
+* [Gustavo Morande][GustavoMorange]
 
 [DyegoCosta]:http://twitter.com/dyegoscosta   "Dyego Costa"
 [FelipeZini]:http://twitter.com/fzini         "Felipe Zini"
 [IgorBozato]:http://twitter.com/igorbozato    "Igor Bozato"
 [IgorRozani]:http://twitter.com/igorrozani    "Igor Rozani"
 [MauroGarcia]:http://twitter.com/Maur0Garcia  "Mauro Garcia"
+[GustavoMorange]:http://www.facebook.com/gusta.morande   "Gustavo Morande"
